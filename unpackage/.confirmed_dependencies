@@ -1,0 +1,29 @@
+{
+  "html/page1.html": {
+    "href": "html/page1.html",
+    "resources": [
+      "css/bootstrap.min.css",
+      "js/bootstrap.min.js",
+      "js/jquery-3.1.1.js",
+      "img/index_banner_showdata.png",
+      "img/index_banner03.png",
+      "img/index_banner04.png",
+      "img/index_banner05.png",
+      "img/downloadbanner.png",
+      "img/0813-div1.png",
+      "img/0813-div2.png",
+      "img/0813-div3.png",
+      "img/footer_logo.png",
+      "img/footer_partner.png",
+      "img/bf86b41c733c42638e2581f9519d6da5.png",
+      "img/zhihui.png",
+      "img/bf05323b57984486b9d1a60ef3649c5c.jpg",
+      "img/32ac816ce564495ca5ae4c0645e06db1.jpg",
+      "img/0813-logo.png",
+      "img/second_toPhone.png",
+      "img/0813-circle.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
